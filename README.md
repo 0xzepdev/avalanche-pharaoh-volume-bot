@@ -1,4 +1,4 @@
-# Avalanche Trading Bot
+# Avalanche volume Bot
 
 A professional trading bot for the Avalanche network that performs automated token swaps with configurable parameters.
 
