@@ -1,7 +1,7 @@
 {
-  "name": "avax-bot",
+  "name": "volume-bot",
   "version": "1.0.0",
-  "description": "Professional trading bot for Avalanche network",
+  "description": "0xzepdev volume bot for Avalanche network",
   "main": "dist/bot.js",
   "scripts": {
     "start": "node dist/main.js",
