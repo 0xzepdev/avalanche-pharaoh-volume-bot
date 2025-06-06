@@ -4,11 +4,14 @@ A professional trading bot for the Avalanche network that performs automated tok
 
 ## Features
 
-- Automated token swapping on Avalanche
+- Automated token swapping on Pharaol Dex for Avalanche
 - Real-time price monitoring and caching
 - Configurable swap amounts and timing
+customization
 - Transaction tracking and logging
+ profit/loss, total daily volume, estimated vs actual output, number of swap daily
 - Error handling and recovery
+wallet balance check, stopping bot
 - Gas price optimization
 - Slippage protection
 
