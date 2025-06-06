@@ -2,6 +2,8 @@
 
 A professional trading bot for the Avalanche network that performs automated token swaps with configurable parameters.
 
+https://github.com/user-attachments/assets/06f4e0ee-ce0a-4d20-9ced-4b111b876836
+
 ## Features
 
 - Automated token swapping on Pharaol Dex for Avalanche
