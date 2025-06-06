@@ -1,6 +1,6 @@
 # Avalanche volume Bot
 
-A professional trading bot for the Avalanche network that performs automated token swaps with configurable parameters.
+A professional volume bot for the Avalanche network that performs automated token swaps with configurable parameters.
 
 https://github.com/user-attachments/assets/06f4e0ee-ce0a-4d20-9ced-4b111b876836
 ## Mainnet test link
@@ -11,9 +11,10 @@ https://snowtrace.io/tx/0x08827628866570f639410851908e1b1bc84ac20929ad55ccd1d7e0
 ## Built by 0xzepdev
 - [Telegram](https://t.me/oxzepdev)
 - [Twitter](https://x.com/0xzepdev)
+
 ## Features
 
-- Automated token swapping on Pharaol Dex for Avalanche
+- Automated token swapping on Pharaoh Dex for Avalanche
 - Real-time price monitoring and caching
 - Configurable swap amounts and timing
 customization
