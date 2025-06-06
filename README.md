@@ -3,7 +3,7 @@
 A professional trading bot for the Avalanche network that performs automated token swaps with configurable parameters.
 
 https://github.com/user-attachments/assets/06f4e0ee-ce0a-4d20-9ced-4b111b876836
-
+## Mainnet test link
 https://snowtrace.io/tx/0xc0244958018942a572e4e740fbbcf119620774a5628b5fa898256263dac96491
 https://snowtrace.io/tx/0x9dc9bbb3e231911db9845887f3a7afa81b1c7ed6e10c882b27e926e5954e8983
 https://snowtrace.io/tx/0xd0ee6715cff35c3ec4242dae7e675842329416328cb1ee6a74ef6a41cdf50c3a
