@@ -36,5 +36,5 @@ export async function runSwapCycle(config: SwapConfig, provider: ethers.JsonRpcP
     log('info', `Waiting ${config.waitTimeAfterCycle}s before next cycle...`);
     await wait(config.waitTimeAfterCycle);
 
-    log('info', "=== Swap Cycle Completed ===");
+    log('info', "=== Swap Cycle Completed by 0xzepdev===");
 }
