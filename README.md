@@ -1,4 +1,4 @@
-# Avalanche volume Bot
+# Avalanche pharaoh volume Bot
 
 A professional volume bot for the Avalanche network that performs automated token swaps with configurable parameters.
 
